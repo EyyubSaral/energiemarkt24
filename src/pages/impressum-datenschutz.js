@@ -84,7 +84,7 @@ export default function ImpressumDatenschutz() {
                 📧 <strong>E-Mail:</strong> kundenservice@energiemarkt24.com
               </li>
               <li>
-                📞 <strong>Telefon:</strong> +90 507 192 35 93
+                📞 <strong>Telefon:</strong> +49 1525 6254164
               </li>
               <li>
                 📍 <strong>Adresse:</strong> ADALET MAH. MANAS BLV. NO: 39 İÇ

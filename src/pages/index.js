@@ -114,7 +114,7 @@ export default function HomePage() {
             <br /> Schreiben Sie uns direkt – wir sind für Sie da!
           </p>
           <a
-            href="https://wa.me/12345678900"
+            href="https://wa.me/4915256254164"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-3 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-700 transition"

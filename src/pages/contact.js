@@ -111,7 +111,7 @@ export default function Contact() {
           </h2>
 
           <a
-            href="https://wa.me/4915123456789"
+            href="https://wa.me/4915256254164"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 text-green-400 hover:underline mb-4"
@@ -122,7 +122,7 @@ export default function Contact() {
 
           <div className="flex items-center gap-3 text-orange-300 mb-3">
             <FaPhone className="text-xl" />
-            <span>+49 1512 3456789</span>
+            <span>+49 1525 6254164</span>
           </div>
 
           <div className="flex items-center gap-3 text-yellow-300">
